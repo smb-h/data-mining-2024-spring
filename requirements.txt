@@ -10,6 +10,7 @@ pandas
 pip
 python-dotenv
 scikit-learn
+scipy
 setuptools
 typer
 wheel
