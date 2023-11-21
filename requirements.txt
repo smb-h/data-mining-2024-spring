@@ -1,5 +1,6 @@
 black
 flake8
+gensim
 ipython
 isort
 jupyter
