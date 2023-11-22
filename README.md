@@ -1,59 +1,64 @@
-# Data Mining 2024 Spring
+# Data Mining Concepts and Techniques 2024 Spring
 
 Data Mining Course 2024 Spring Semester
 
-## Project Organization
+## Overview
 
-```
-├── LICENSE            <- Open-source license if one is chosen
-├── Makefile           <- Makefile with convenience commands like `make data` or `make train`
-├── README.md          <- The top-level README for developers using this project.
-├── data
-│   ├── external       <- Data from third party sources.
-│   ├── interim        <- Intermediate data that has been transformed.
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
-│
-├── docs               <- A default Sphinx project; see sphinx-doc.org for details
-│
-├── models             <- Trained and serialized models, model predictions, or model summaries
-│
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
-│
-├── pyproject.toml     <- Project configuration file with package metadata for dmct
-│                         and configuration for tools like black
-│
-├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-│
-├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-│   └── figures        <- Generated graphics and figures to be used in reporting
-│
-├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-│                         generated with `pip freeze > requirements.txt`
-│
-├── setup.cfg          <- Configuration file for flake8
-│
-└── dmct                <- Source code for use in this project.
-    │
-    ├── __init__.py    <- Makes dmct a Python module
-    │
-    ├── data           <- Scripts to download or generate data
-    │   └── make_dataset.py
-    │
-    ├── features       <- Scripts to turn raw data into features for modeling
-    │   └── build_features.py
-    │
-    ├── models         <- Scripts to train models and then use trained models to make
-    │   │                 predictions
-    │   ├── predict_model.py
-    │   └── train_model.py
-    │
-    └── visualization  <- Scripts to create exploratory and results oriented visualizations
-        └── visualize.py
-```
+Welcome to the Data Mining Concepts and Techniques Notebooks repository for the Spring 2024 semester. This repository contains a collection of Jupyter notebooks and accompanying resources aimed at providing a comprehensive understanding of data mining concepts and techniques.
 
---------
+## Table of Contents
 
-<small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">Cookiecutter Data Science project template</a>. #cookiecutterdatascience</small>
+1. [Data, measurements, and data preprocessing](notebooks/ch2.ipynb)
+2. [Data warehousing and online analytical processing](notebooks/ch3.ipynb)
+3. [Pattern mining: basic concepts and methods](notebooks/ch4.ipynb)
+4. [Pattern mining: advanced methods](notebooks/ch5.ipynb)
+5. [Classification: basic concepts and methods](notebooks/ch6.ipynb)
+6. [Classification: advanced methods]()
+7. [Cluster analysis: basic concepts and methods]()
+8. [Cluster analysis: advanced methods]()
+9. [Deep learning]()
+10. [Outlier detection]()
+11. [Data mining trends and research frontiers]()
+
+Each section corresponds to a specific aspect of data mining, and the notebooks are designed to be used as teaching aids and self-study resources.
+
+## Usage
+
+To make the most of these notebooks, follow these steps:
+
+1. **Clone the repository to your local machine:**
+
+   ```bash
+   git clone https://github.com/smb-h/data-mining-2024-spring.git
+   ```
+
+2. **Install the required dependencies:**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Open the notebooks using Jupyter:**
+
+   ```bash
+   jupyter notebook
+   ```
+
+4. **Navigate to the specific notebook you want to explore and run the cells sequentially.**
+
+## Contributing
+
+If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request. Contributions are welcome!
+
+<!-- 
+## Acknowledgments
+
+Special thanks to [Author Name] for their contributions to this repository. 
+-->
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+- Feel free to make any adjustments as needed for your specific context and preferences.
