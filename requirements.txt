@@ -1,18 +1,34 @@
 black
 flake8
+fuzzy
+genetic
 gensim
 ipython
 isort
 jupyter
 loguru
 matplotlib
+metric-learn
+modAL
+networkx
 numpy
 pandas
 pip
+pomegranate
+# pyarc
+pyfim
 python-dotenv
+rulefit
 scikit-learn
+# scikit-multiflow
 scipy
 setuptools
+shape
+stable-baselines3
+# stellargraph
+tensorflow
+torch
+transformers
 typer
 wheel
 -e .
