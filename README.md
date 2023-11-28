@@ -13,12 +13,12 @@ Welcome to the Data Mining Concepts and Techniques Notebooks repository for the 
 3. [Pattern mining: basic concepts and methods](notebooks/ch4.ipynb)
 4. [Pattern mining: advanced methods](notebooks/ch5.ipynb)
 5. [Classification: basic concepts and methods](notebooks/ch6.ipynb)
-6. [Classification: advanced methods]()
-7. [Cluster analysis: basic concepts and methods]()
-8. [Cluster analysis: advanced methods]()
-9. [Deep learning]()
-10. [Outlier detection]()
-11. [Data mining trends and research frontiers]()
+6. [Classification: advanced methods](notebooks/7.ipynb)
+7. [Cluster analysis: basic concepts and methods](notebooks/ch8.ipynb)
+8. [Cluster analysis: advanced methods](notebooks/ch9.ipynb)
+9. [Deep learning](notebooks/ch10.ipynb)
+10. [Outlier detection](notebooks/ch11.ipynb)
+11. [Data mining trends and research frontiers](notebooks/ch12.ipynb)
 
 Each section corresponds to a specific aspect of data mining, and the notebooks are designed to be used as teaching aids and self-study resources.
 
