@@ -1,7 +1,12 @@
+auto-sklearn
+diffprivlib
 dgl
 black
+fairness-indicators
+folium
 flake8
 fuzzy
+geopandas
 genetic
 gensim
 hdbscan
@@ -16,6 +21,7 @@ networkx
 numpy
 pandas
 pip
+plotly
 pomegranate
 # pyarc
 pyfim
@@ -26,6 +32,7 @@ scikit-learn
 scipy
 setuptools
 shape
+shapely
 stable-baselines3
 # stellargraph
 tensorflow
